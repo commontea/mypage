@@ -1,7 +1,7 @@
 class Owner
 
 	def name
-		name = 'Common Tea'	
+		name = 'Common Tea'
 	end
 
 end
